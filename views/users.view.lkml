@@ -27,6 +27,8 @@ view: users {
     type: string
     sql:  CASE WHEN ${TABLE}.age > 30
         THEN 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Maecenas sed enim ut sem viverra aliquet eget. Consequat ac felis donec et odio. Consectetur purus ut faucibus pulvinar elementum integer. Neque egestas congue quisque egestas diam in arcu cursus euismod. Massa tincidunt dui ut ornare lectus. Maecenas volutpat blandit aliquam etiam. Nibh venenatis cras sed felis eget uiewqoiuyrqweqqqqwerqewr' END;;
+
+
   }
 
   # A measure is a field that uses a SQL aggregate function. Here are defined sum and average
