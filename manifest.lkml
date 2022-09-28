@@ -1,6 +1,6 @@
 project_name: "gus-thelook"
 
-constant: connection {
+constant: projectconnection {
   value: "thelook"
   export: override_required
 }
